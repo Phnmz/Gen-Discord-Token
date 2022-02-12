@@ -1,8 +1,6 @@
 # Generator Discord Token 
 Generator Discord Token Verified Email and Phone Number
 
-# Generator Discord Token
-
 ## How to Install
 
 ```
