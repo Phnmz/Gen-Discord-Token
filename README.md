@@ -1,4 +1,4 @@
-# Generator Discord Token 
+# Gen Discord Token 
 Generator Discord Token Verified Email and Phone Number
 
 ## How to Install
